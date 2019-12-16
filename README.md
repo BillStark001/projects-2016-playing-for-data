@@ -1,7 +1,7 @@
 Playing for Data
 ===============================================================================
 
-*Note: This repositry is forked from a distant repository *https://bitbucket.org/visinf/projects-2016-playing-for-data/src/master/
+*Note: This repositry is forked from a distant repository *https://bitbucket.org/visinf/projects-2016-playing-for-data/src/master/ and https://bitbucket.org/visinf/projects-2016-playing-for-data-renderdoc/src/playing_for_data/
 
 This source code release accompanies the paper. 
 
