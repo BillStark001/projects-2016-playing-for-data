@@ -1,7 +1,9 @@
 Playing for Data
 ===============================================================================
 
-This source code release accompanies the paper  
+*Note: This repositry is forked from a distant repository https://bitbucket.org/visinf/projects-2016-playing-for-data/src/master/*
+
+This source code release accompanies the paper. 
 
 **Playing for Data: Ground Truth from Computer Games**  
 Stephan Richter, Vibhav Vineet, Stefan Roth and Vladlen Koltun. In ECCV 2016.  
