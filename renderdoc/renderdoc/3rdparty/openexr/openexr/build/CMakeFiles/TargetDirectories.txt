@@ -1,0 +1,9 @@
+C:/openexr/openexr-2.3.0/build/CMakeFiles/INSTALL.dir
+C:/openexr/openexr-2.3.0/build/CMakeFiles/ALL_BUILD.dir
+C:/openexr/openexr-2.3.0/build/CMakeFiles/ZERO_CHECK.dir
+C:/openexr/openexr-2.3.0/build/IlmImf/CMakeFiles/dwaLookups.dir
+C:/openexr/openexr-2.3.0/build/IlmImf/CMakeFiles/b44ExpLogTable.dir
+C:/openexr/openexr-2.3.0/build/IlmImf/CMakeFiles/INSTALL.dir
+C:/openexr/openexr-2.3.0/build/IlmImfUtil/CMakeFiles/INSTALL.dir
+C:/openexr/openexr-2.3.0/build/IlmImfExamples/CMakeFiles/IlmImfExamples.dir
+C:/openexr/openexr-2.3.0/build/IlmImfExamples/CMakeFiles/INSTALL.dir

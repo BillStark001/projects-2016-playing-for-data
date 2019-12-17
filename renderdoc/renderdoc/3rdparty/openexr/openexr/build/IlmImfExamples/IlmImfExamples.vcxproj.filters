@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\drawImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\generalInterfaceExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\generalInterfaceTiledExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\lowLevelIoExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\previewImageExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\rgbaInterfaceExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\openexr\openexr-2.3.0\IlmImfExamples\rgbaInterfaceTiledExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\openexr\openexr-2.3.0\IlmImfExamples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C97E448F-E5A9-3D1B-9BAD-0B62BBF681B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

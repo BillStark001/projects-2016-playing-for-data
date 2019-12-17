@@ -6,6 +6,8 @@ Profile32/
 Profile64/
 Release32/
 Release64/
+Win32/
+x64/
 dist/
 Resources/*.png
 qrenderdoc/Makefile*
